@@ -1,39 +1,42 @@
-## Hey There!
+# 👋 Hey, I'm Samrat
 
-I'm Samrat, a 18 yrs old coder, scripter and VFX artist.
+18 y/o Developer | Scripter | VFX Artist  
+I turn ideas my imagination into optimized, functional systems .
 
-I like to bring my imagination to real life. 
+---
 
-I like to approch every question in the most logical, easy and optimised way possible.
+## Languages: 
+- C++  
+- C#  
+- Lua  
 
+---
 
-I main C++, C# and Lua.
+## Specialties:  
+- Game scripting (Roblox / systems design)  
+- VFX & visual polish  
+- Performance optimization  
 
-I'm currently working on reinforcing my development skills on Lua. 
+---
 
+## Current Focus:
+- Advanced Lua systems (OOP, modular design)  
+- Clean architecture & reusable frameworks  
+- Improving large-scale project structure  
 
+---
 
+## Connect with me on:
+- Discord: **samrat7777**  
 
+---
 
+## What Sets Me Apart: 
+- I write maintainable and scalable code  
+- I prioritize optimization from the start  
+- I take account of future devs comming after me, so I make my code understanble and easy to debug.
 
+---
 
-You can reach out to me through my discord: samrat7777
-
-
-
-
-
-<!--
-**samrat7777kittu/samrat7777kittu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Philosophy
+> “Simple. Logical. Optimized.”
