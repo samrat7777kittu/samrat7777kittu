@@ -1,7 +1,6 @@
 ## Hey There!
 
 I'm Samrat, a 18 yrs old coder, scripter and VFX artist.
-
 I like to bring my imagination to real life. 
 
 I like to approch every question in the most logical, easy and optimised way possible.
