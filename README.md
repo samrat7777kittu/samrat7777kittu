@@ -12,6 +12,11 @@ I main C++, C# and Lua.
 I'm currently working on reinforcing my development skills on Lua. 
 
 
+
+
+
+
+
 You can reach out to me through my discord: samrat7777
 
 
