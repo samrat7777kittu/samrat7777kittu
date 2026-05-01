@@ -26,7 +26,7 @@ I turn ideas and my imagination into optimized and functional systems .
 - I prioritize optimization from the start  
 - I take account of future devs comming after me, so I make my code understanble and easy to debug.
 
-## Connect with me on:
+## Connect With Me On:
 - Discord: **samrat7777**
 
 > “Simple. Logical. Optimized.”
