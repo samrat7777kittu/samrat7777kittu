@@ -3,18 +3,13 @@
 18 y/o Developer | Scripter | VFX Artist  
 I turn ideas and my imagination into optimized and functional systems .
 
-
 ## Languages: 
-- C++  
-- C#  
 - Lua  
-
 
 ## Specialties:  
 - Game scripting (Roblox / systems design)  
 - VFX & visual polish  
 - Performance optimization  
-
 
 ## Current Focus:
 - Advanced Lua systems (OOP, modular design)  
