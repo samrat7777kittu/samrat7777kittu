@@ -8,8 +8,9 @@ I turn ideas and my imagination into optimized and functional systems .
 
 ## Specialties:  
 - Game scripting (Roblox / systems design)  
-- VFX & visual polish  
-- Performance optimization  
+- VFX 
+- Performance optimization
+- UI Animations
 
 ## Current Focus:
 - Advanced Lua systems (OOP, modular design)  
