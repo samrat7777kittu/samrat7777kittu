@@ -13,7 +13,7 @@ I turn ideas and my imagination into optimized and functional systems .
 - Gaming
 - Game Development
 - Coding
-- Watching Animes/Series/Movies
+- Watching Animes / Series / Movies
 - Player Basketball
 
 ## 🎶 My favorite playlists are:
