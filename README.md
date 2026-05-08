@@ -14,7 +14,7 @@ I turn ideas and my imagination into optimized and functional systems .
 - Game Development
 - Coding
 - Watching Animes / Series / Movies
-- Player Basketball
+- Play Basketball
 
 ## 🎶 My favorite playlists are:
 - [Malcolm Todd](https://www.youtube.com/watch?v=WqTThky1ltQ)
