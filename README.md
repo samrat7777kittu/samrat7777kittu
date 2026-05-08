@@ -23,6 +23,5 @@ I turn ideas and my imagination into optimized and functional systems .
 - I take account of future devs comming after me, so I make my code understanble and easy to debug.
 
 ## Connect With Me On:
-- Discord:
 ```txt id="4f0m9d"
-samrat7777
+Discord: samrat7777
