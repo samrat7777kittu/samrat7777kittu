@@ -26,5 +26,3 @@ I turn ideas and my imagination into optimized and functional systems .
 - Discord:
 ```txt id="4f0m9d"
 samrat7777
-
-> “Simple. Logical. Optimized.”
