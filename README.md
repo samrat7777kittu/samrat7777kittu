@@ -9,7 +9,9 @@ I turn ideas and my imagination into optimized and functional systems .
 - C++
 
 ## 📄 Portfolios:
-- [Roblox Scripter 📃](https://github.com/samrat7777kittu/Roblox_Scripting_Overview)
+- [Roblox](https://github.com/samrat7777kittu/Roblox_Scripting_Overview)
+- Python
+- C++
 
 ## 🏀 Hobbies:
 - Gaming
