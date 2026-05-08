@@ -4,7 +4,9 @@
 I turn ideas and my imagination into optimized and functional systems .
 
 ## 💻 Languages: 
-- Lua
+- Laua
+- Python
+- C++
 
 ## 📄 Portfolios:
 - [Roblox Scripter 📃](https://github.com/samrat7777kittu/Roblox_Scripting_Overview)
@@ -14,8 +16,7 @@ I turn ideas and my imagination into optimized and functional systems .
 - Game Development
 - Coding
 - Watching Animes / Series / Movies
-- Play Basketball
-- Gym
+- Sports, health and fitness
 
 ## 🎶 My favorite playlists are:
 - [Malcolm Todd](https://www.youtube.com/watch?v=WqTThky1ltQ)
