@@ -21,7 +21,7 @@ I turn ideas and my imagination into optimized and functional systems .
 - Sports, health and fitness
 
 ## 🎶 My favorite playlists are:
-- [Malcolm Todd](https://www.youtube.com/watch?v=WqTThky1ltQ)
+- [Malcolm Todd](https://www.youtube.com/watch?v=3KQjOE1AuN4&list=RD3KQjOE1AuN4&start_radio=1)
 - [WhiteGirl Music (Banger)](https://www.youtube.com/watch?v=VMhH-lzO7DU&list=RDVMhH-lzO7DU&start_radio=1)
 
 ## Connect With Me On:
