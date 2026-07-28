@@ -6,7 +6,7 @@ I turn ideas and my imagination into optimized and functional systems .
 ## 💻 Languages: 
 - Laua
 - Python
-- C++
+- C
 
 ## 📄 Portfolios:
 - [Roblox](https://github.com/samrat7777kittu/Roblox_Scripting_Overview)
