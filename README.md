@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Samrat
 
 18 y/o Developer | Scripter | Coder
+<br>
 I turn ideas and my imagination into optimized and functional systems .
 
 ## 💻 Languages: 
