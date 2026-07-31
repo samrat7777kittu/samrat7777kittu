@@ -2,7 +2,7 @@
 
 18 y/o Developer | Scripter | Coder
 <br>
-I turn ideas and my imagination into optimized and functional systems .
+I turn ideas and my imagination into functional systems .
 
 ## 💻 Languages: 
 - Laua
